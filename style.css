@@ -1,9 +1,9 @@
 body {
     padding-top: 20px;
-    background-color: #6b6b6b;
 }
 
 .form-container {
     max-width: 600px;
+    background-color: #ccc;
     margin: 0 auto;
 }
